@@ -1,13 +1,14 @@
-## 
+## <div align="center" width="50">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+
 <div align="center">
 
 # 👋 Hi, I'm Basant Tarek
 
 ### 🦷 Dentist • 🤖 AI in Healthcare Researcher • 🎙️ Radio Host
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=00B8D9&center=true&vCenter=true&width=900&lines=Dentist+🦷;AI+in+Healthcare+Researcher+🤖;Radio+Host+🎙️;Digital+Health+Advocate+🌍;Healthcare+Innovation+💡" />
-
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="55%"/>
 
 <br>
 
